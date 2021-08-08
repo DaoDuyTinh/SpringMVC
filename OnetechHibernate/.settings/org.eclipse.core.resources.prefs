@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/daoduytinh/controller/AdminController.java=UTF-8
+encoding//src/main/java/com/daoduytinh/controller/CartController.java=UTF-8
+encoding//src/main/java/com/daoduytinh/controller/HomeController.java=UTF-8
+encoding//src/main/java/com/daoduytinh/controller/UsersController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/home/home.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/news/news.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/products/products.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/register.jsp=UTF-8
